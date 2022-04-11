@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "rfc": "SDF461",
+        "nombre":"Dannia" 
+    },
+    {
+        "id": 2,
+        "rfc": "VDG159",
+        "nombre": "Carlos"
+    },
+    {
+        "id": 3,
+        "rfc": "RFV789",
+        "nombre": "Hael"
+    }
+]

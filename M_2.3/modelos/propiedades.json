@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "clave_catastral": "LM-20-102",
+        "descripcion": "casa chiquita",
+        "propietarios":[]
+    },
+    {
+        "id": 2,
+        "clave_catastral": "XA-03-008",
+        "descripcion": "casa grandota",
+        "propietarios":[]
+    }
+]

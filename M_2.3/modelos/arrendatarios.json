@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Daniela",
+        "propiedades": 5,
+        "rfc": "UJF159"
+    },
+    {
+        "id": 2,
+        "nombre": "Miguel",
+        "propiedades": 3,
+        "rfc": "ESD753"
+    },
+    {
+        "id": 3,
+        "nombre": "Imanol",
+        "propiedades": 6,
+        "rfc": "TGB741"
+    }
+]
